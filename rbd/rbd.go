@@ -12,7 +12,7 @@ import (
 	"bytes"
 	"errors"
 	"fmt"
-	"github.com/oars-sigs/go-ceph /rados"
+	"github.com/oars-sigs/go-ceph/rados"
 	"io"
 	"time"
 	"unsafe"
