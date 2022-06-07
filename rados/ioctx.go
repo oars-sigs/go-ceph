@@ -5,6 +5,7 @@ package rados
 // #include <stdlib.h>
 // #include <rados/librados.h>
 //
+// __attribute__((weak))
 // char* nextChunk(char **idx) {
 // 	char *copy;
 // 	copy = strdup(*idx);
